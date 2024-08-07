@@ -128,11 +128,11 @@ Here are some of the technologies and platforms I work with:
         <br>React
       </td>
       <td align="center" width="96">
-        <a href="#aws">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
-        </a>
-        <br>AWS
-      </td>
+  <a href="#aws">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
+  </a>
+  <br>AWS
+</td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -178,6 +178,12 @@ Here are some of the technologies and platforms I work with:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
         </a>
         <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <a href="#airflow">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow" />
+          </a>
+        <br>Airflow
       </td>
     </tr>
   </table>
