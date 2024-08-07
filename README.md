@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Mackenzie
+# 👋 Hi there! I'm Mack C
 
 Welcome to my GitHub profile! I'm a passionate Data Professional with a diverse skill set in data engineering, machine learning, analytics, and web development. Here’s a glimpse of what I do:
 
