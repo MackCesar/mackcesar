@@ -50,8 +50,8 @@ I'm always eager to explore new technologies and innovative projects. Here are a
 
 - Earn the **AWS Certified Developer - Associate** certification.
 - Earn the **GCP - Associate Cloud Engineer** certification.
-- Contribute to open-source projects in data science and cloud computing.
-- Build and share more projects demonstrating real-world applications of data engineering and machine learning.
+- Contribute to open-source projects.
+- Build and share more projects demonstrating real-world applications of data engineering/science, machine learning, and cloud computing.
 
 ## 📫 Let's Connect!
 
