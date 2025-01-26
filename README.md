@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate Data Professional with a diverse 
 
 ## 🔧 Technologies & Tools
 
-- **Data Engineering:** Python, SQL, Apache Spark, Airflow
-- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, MLflow
+- **Data Engineering:** Python, SQL, Apache Spark, Airflow, Kubeflow
+- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, MLflow, Ray
 - **Databases:** MySQL, SQLite, PostgreSQL, MongoDB
 - **Web Development:** HTML, CSS, JavaScript, React
 - **Cloud Platforms:** AWS, GCP
