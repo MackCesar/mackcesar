@@ -1,189 +1,157 @@
-# 👋 Hi! I'm Mack C
+# 👋 Hi, I'm Mack C
 
-About me: I'm a passionate Data Professional with a diverse skill set in data engineering, machine learning, analytics, and web development. Here’s a glimpse of what I do:
+**Data & AI Engineer | Cloud-Native Builder | MLOps Innovator**
 
-## 🚀 About Me
+I build and share **end-to-end data & AI solutions** — from **scalable ETL pipelines and ML models** to **RAG-powered LLM applications** and **cloud-native deployments**. My focus is blending **data engineering, AI research, and software craftsmanship** to create systems that are both technically rigorous and impactful.
 
-- 🌐 I craft data-driven solutions using **Python** and **SQL**.
-- 🤖 Enthusiastically exploring **Machine Learning** to build intelligent systems.
-- 💻 Experienced in front-end development: **HTML/CSS/JavaScript**.
-- ⚛️ Currently diving into **React** to enhance my web development skills.
-- ☁️ Upskilling in **AWS** and **GCP** to leverage cloud services for scalable solutions.
-- 🐳 Learning **Kubernetes** to orchestrate containerized applications.
-- 🐹 Exploring the world of **Go** for efficient backend services.
-- 🟦 Building ETL pipelines and microservices with **Scala** and **Apache Spark**.
-- 💾 Skilled in various databases including **MySQL**, **SQLite**, **PostgreSQL**, and **MongoDB** for robust data management.
-
-## 🔧 Technologies & Tools
-
-- **Data Engineering:** Python, SQL, Apache Spark, Airflow, Kubeflow
-- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, MLflow, Ray
-- **Databases:** MySQL, SQLite, PostgreSQL, MongoDB
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Cloud Platforms:** AWS, GCP
-- **Containerization:** Docker, Kubernetes
-- **Backend Development:** Go, Scala
-- **Version Control:** Git, GitHub, Bitbucket
-
-## 🌟 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mackcesar&layout=compact&hide=css&theme=radical)
-
-
-## 🌱 Currently Learning
-
-- **Machine Learning:** Experimenting with advanced models.
-- **React:** Enhancing web app interactivity with modern UI components.
-- **Kubernetes:** Managing containerized workloads at scale.
-- **Terraform:** Learning to automate infrastructure deployment and management as code for scalable cloud solutions.
-- **Go:** Developing high-performance backend services.
-- **Scala:** Building resilient ETL pipelines with Apache Spark.
-
-## 🧠 Interests & Exploration
-
-I'm always eager to explore new technologies and innovative projects. Here are a few areas I'm currently interested in:
-
-- **Flux (Black Forest Labs):** Exploring [Flux](https://github.com/black-forest-labs/flux) by Black Forest Labs, a company deeply rooted in the generative AI research community. Their mission is to develop and advance state-of-the-art generative deep learning models for media such as images and videos, pushing the boundaries of creativity, efficiency, and diversity. We believe that generative AI will revolutionize how we create and interact with digital content.
-- **Stable Diffusion:** Investigating the capabilities of generative models for image synthesis and transformation. Check out the [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) for more insights into this fascinating project.
-
-## 🎯 Goals for 2024
-
-- Earn the **AWS Certified Developer - Associate** certification.
-- Earn the **GCP - Associate Cloud Engineer** certification.
-- Contribute to open-source projects.
-- Build and share more projects demonstrating real-world applications of data engineering/science, machine learning, and cloud computing.
-
-## 📫 Let's Connect!
-
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mackcesar)
-
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+Many of the repositories here are **learning projects and experiments** — built to explore new tools, validate best practices, and demonstrate how advanced ideas (like **Langflow, LLMs, MLOps, and cloud automation**) translate into real-world implementations.
 
 ---
 
-⭐️ [Follow me on GitHub](https://github.com/mackcesar) for more updates on my journey in tech!
+## 🚀 About Me
+
+- 🛠️ Building **enterprise-grade data pipelines** with **Python, SQL, Scala, and Apache Spark**.  
+- 🧩 Designing **RAG pipelines** that combine structured + unstructured data with **Langflow, Weaviate, and ChromaDB**.  
+- 🤖 Developing with **LLMs (Ollama, vLLM, LangChain, Triton)** to solve real-world problems in healthcare, analytics, and automation.  
+- ⚡ Practicing **MLOps** with **Airflow, MLflow, Ray**, and **Kubeflow** for experimentation → deployment at scale.  
+- 🌐 Creating interactive apps with **React**, **TypeScript**, and **FastAPI** backends.  
+- ☁️ Architecting cloud-native solutions across **AWS** and **GCP**, with **Terraform** for IaC.  
+- 🐳 Containerizing and orchestrating workloads with **Docker** and **Kubernetes**.  
+- 🐹 Exploring **Go** for high-performance backend microservices.  
+
+---
+
+## 🔧 Tech Toolbox
+
+- **Data Engineering:** Python, SQL, Scala, Apache Spark, Airflow, Kubeflow  
+- **AI & LLMs:** Langflow, LangChain, Ollama, Weaviate, ChromaDB, RAG pipelines  
+- **MLOps & Distributed Training:** MLflow, Ray, PyTorch, TensorFlow  
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite  
+- **Cloud Platforms:** AWS, GCP (Terraform, Serverless, BigQuery, S3, Lambda)  
+- **DevOps & Infra:** Docker, Kubernetes, Terraform, CI/CD  
+- **Backend & APIs:** Go, FastAPI, Node.js  
+- **Frontend:** React, TypeScript, JavaScript, HTML/CSS  
+- **Version Control:** GitHub, Bitbucket  
+
+---
+
+## 🌱 Currently Learning
+
+- **Advanced RAG Architectures** — scaling retrieval pipelines with hybrid search and embeddings.  
+- **Langflow Extensions** — writing custom components to integrate private APIs into workflows.  
+- **LLM Optimization** — deploying high-throughput inference with vLLM and GPU clusters.  
+- **Terraform + Cloud Security** — FISMA/NIST-compliant multi-environment deployments.  
+
+---
+
+## 🧠 Areas of Exploration
+
+- **Clinical AI Agents** — building safe pipelines for triage, EHR summarization, and decision support.  
+- **Generative AI for Media** — exploring **Flux** and **Stable Diffusion** for creativity and research.  
+- **RAG at Scale** — combining structured healthcare data with LLM retrieval systems.  
+
+---
+
+## 🎯 2025 Career Goals
+
+- 📜 Earn **AWS Certified Developer – Associate** and **GCP Associate Cloud Engineer**.  
+- 🏗️ Build and release **production-ready AI/data repos** that show cloud + ML integration.  
+- 🤝 Contribute to **open-source AI and MLOps projects**.
+
+---
+
+## 📫 Let’s Connect
+⭐️ Follow me on GitHub for new **LLM, RAG, and cloud-native AI engineering projects**.  
+
+---
 
 ## 🔥 Tech Stack
-
-Here are some of the technologies and platforms I work with:
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="#python">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        </a>
-        <br>Python
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python
       </td>
       <td align="center" width="96">
-        <a href="#mysql">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-        </a>
-        <br>MySQL
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="48" height="48" alt="Scala" /><br>Scala
       </td>
       <td align="center" width="96">
-        <a href="#sqlite">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
-        </a>
-        <br>SQLite
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" /><br>Go
       </td>
       <td align="center" width="96">
-        <a href="#postgresql">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-        </a>
-        <br>PostgreSQL
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>React
       </td>
       <td align="center" width="96">
-        <a href="#mongodb">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-        </a>
-        <br>MongoDB
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" /><br>FastAPI
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <a href="#html">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-        </a>
-        <br>HTML5
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
       </td>
       <td align="center" width="96">
-        <a href="#css">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-        </a>
-        <br>CSS3
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" /><br>Kubernetes
       </td>
       <td align="center" width="96">
-        <a href="#javascript">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        </a>
-        <br>JavaScript
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" /><br>Terraform
       </td>
       <td align="center" width="96">
-        <a href="#react">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-        </a>
-        <br>React
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" /><br>AWS
       </td>
       <td align="center" width="96">
-  <a href="#aws">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-  </a>
-  <br>AWS
-</td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="#gcp">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
-        </a>
-        <br>GCP
-      </td>
-      <td align="center" width="96">
-        <a href="#docker">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-        </a>
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <a href="#kubernetes">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
-        </a>
-        <br>Kubernetes
-      </td>
-      <td align="center" width="96">
-        <a href="#go">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-        </a>
-        <br>Go
-      </td>
-      <td align="center" width="96">
-        <a href="#scala">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="48" height="48" alt="Scala" />
-        </a>
-        <br>Scala
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" /><br>Azure
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <a href="#pytorch">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
-        </a>
-        <br>PyTorch
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" /><br>GCP
       </td>
       <td align="center" width="96">
-        <a href="#tensorflow">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-        </a>
-        <br>TensorFlow
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
       </td>
       <td align="center" width="96">
-        <a href="#airflow">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow" />
-          </a>
-        <br>Airflow
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Airflow" /><br>Airflow
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /><br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /><br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg" width="48" height="48" alt="MLflow" /><br>MLflow
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ray.svg" width="48" height="48" alt="Ray" /><br>Ray
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48" height="48" alt="LangChain" /><br>LangChain
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/49703400?s=200&v=4" width="48" height="48" alt="Weaviate" /><br>Weaviate
+      </td>
+      <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/121472549?s=200&v=4" width="48" height="48" alt="ChromaDB" /><br>ChromaDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/127610131?s=200&v=4" width="48" height="48" alt="Langflow" /><br>Langflow
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /><br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
       </td>
     </tr>
   </table>
