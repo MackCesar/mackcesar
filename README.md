@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mack C
 
-**Data & AI Engineer | Cloud-Native Builder | MLOps Innovator**
+**Data & AI Engineer | Cloud-Native Builder | MLOps Professional**
 
 I build and share **end-to-end data & AI solutions** — from **scalable ETL pipelines and ML models** to **RAG-powered LLM applications** and **cloud-native deployments**. My focus is blending **data engineering, AI research, and software craftsmanship** to create systems that are both technically rigorous and impactful.
 
