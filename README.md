@@ -31,7 +31,7 @@ Many of the repositories here are **learning projects and experiments** — buil
 - **DevOps & Infra:** Docker, Kubernetes, Terraform, CI/CD  
 - **Backend & APIs:** Go, FastAPI, Node.js  
 - **Frontend:** React, TypeScript, JavaScript, HTML/CSS  
-- **Version Control:** GitHub, Bitbucket  
+- **Version Control:** GitHub, Bitbucket, Gitea 
 
 ---
 
